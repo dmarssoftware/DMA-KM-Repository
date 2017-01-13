@@ -1,0 +1,9 @@
+==============Prerequisite for root and hadoop from UNIX============
+sudo passwd root
+Login to root
+Execute the prerequisite_root.sh script
+Automatic reboot will occur
+							
+After reboot, run
+1. root_setup.sh
+2. MN_hadoop_script.sh
